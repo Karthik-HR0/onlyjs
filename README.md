@@ -5,7 +5,8 @@ onlyjs fetches javascript links (.js)  URLs from AlienVault , Wayback Machine, C
 
 Inspired by Tomnomnom's [gau](https://github.com/tomnomnom/gau).
 
-</kbd>
+
+
 # Resources
 - [Usage](#usage)
 - [Installation](#installation)
