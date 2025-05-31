@@ -1,13 +1,13 @@
-#  (onlyjs)
-[![License](https://img.shields.io/badge/license-MIT-_red.svg)](https://opensource.org/licenses/MIT)
 
-(onlyjs) fetches javascript links .js links known URLs from AlienVault's [Open Threat Exchange](https://otx.alienvault.com), the Wayback Machine, Common Crawl, and URLScan for any given domain. Inspired by Tomnomnom's [gau](https://github.com/tomnomnom/gau).
+* onlyjs * fetches javascript links (.js)  URLs from AlienVault , Wayback Machine, Common Crawl, and URLScan for any given domain. And the onlyjs is a custom gau collect only javascript url.
+
+Inspired by Tomnomnom's [gau](https://github.com/tomnomnom/gau).
 
 
 # Resources
 - [Usage](#usage)
 - [Installation](#installation)
-- [ohmyzsh note](#ohmyzsh-note)
+
 
 ## Usage:
 Examples:
@@ -17,7 +17,7 @@ $ printf example.com | onlyjs
 $ cat domains.txt | onlyjs --threads 5
 $ onlyjs example.com google.com
 $ onlyjs --o example-urls.txt example.com
-$ onlyjs --blacklist png,jpg,gif example.com
+
 ```
 To display the help for the tool use the -h flag:
 ```
@@ -46,10 +46,9 @@ Installation:
 git clone https://github.com/Karthik-HR0/onlyjs.git
 cd onlyjs
 go build cmd/onlyjs/onlyjs.go
- #cat main > onlyjs 
-#chmod + x onlyjs
 sudo mv onlyjs /usr/local/bin/
 onlyjs --version
+
 ```
 
 
