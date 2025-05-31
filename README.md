@@ -1,3 +1,9 @@
+🕵️‍♂️ onlyjs
+
+onlyjs is a powerful reconnaissance tool that fetches only JavaScript file URLs (.js) for any given domain. It streamlines the discovery of client-side attack surfaces by aggregating .js endpoints from multiple public sources.
+
+> ⚡ Inspired by Tomnomnom's gau — but laser-focused on JavaScript.
+
 
 <kbd> 
 onlyjs fetches javascript links (.js)  URLs from AlienVault , Wayback Machine, Common Crawl, and URLScan for any given domain. And the onlyjs is a custom gau collect only javascript url.
