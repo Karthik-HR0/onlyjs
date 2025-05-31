@@ -64,3 +64,4 @@ onlyjs --version
 ```
 
 
+> [!Note] onlyjs helps speed up your reconnaissance by aggregating .js endpoints — but always manually verify before use!
