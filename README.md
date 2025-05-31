@@ -1,12 +1,23 @@
 
+<div align="center"><h3>
+  <b>⚡ <kbd>onlyjs</kbd>
 
-🕵️‍♂️ onlyjs
+  </b>
+</h3><h6>onlyjs is a powerful reconnaissance tool that fetches only JavaScript file URLs (.js) for any given domain. It streamlines the discovery of client-side attack surfaces by aggregating .js endpoints from multiple public sources. </h6></div>
 
-onlyjs is a powerful reconnaissance tool that fetches only JavaScript file URLs (.js) for any given domain. It streamlines the discovery of client-side attack surfaces by aggregating .js endpoints from multiple public sources.
-
-> ⚡ Inspired by Tomnomnom's gau — but laser-focused on JavaScript.
+<br><br><br>
 
 
+<br>
+<br>
+<br>
+
+> [!Important]
+> **_ONLYJS  Inspired by Tomnomnom's gau — but laser-focused on JavaScript._**
+
+<br>
+<br>
+<br>
 
 
 
@@ -14,6 +25,9 @@ onlyjs is a powerful reconnaissance tool that fetches only JavaScript file URLs 
 - [Usage](#usage)
 - [Installation](#installation)
 
+![IMG_20250530_203150_917](https://github.com/user-attachments/assets/d9eed16d-6096-4b39-9244-d341e6fe1598)
+
+![IMG_20250530_203152_187](https://github.com/user-attachments/assets/710ac714-2ff4-4089-b4de-a8cbcc21ef50)
 
 ## Usage:
 Examples:
@@ -47,7 +61,7 @@ $ onlyjs -h
 | `--version` | show onlyjs version                                         | `onlyjs --version`                           |
 
 
-Installation:
+## Installation:
 ```
 git clone https://github.com/Karthik-HR0/onlyjs.git
 cd onlyjs
