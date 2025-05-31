@@ -1,9 +1,11 @@
 
-* onlyjs * fetches javascript links (.js)  URLs from AlienVault , Wayback Machine, Common Crawl, and URLScan for any given domain. And the onlyjs is a custom gau collect only javascript url.
+<kbd> 
+onlyjs fetches javascript links (.js)  URLs from AlienVault , Wayback Machine, Common Crawl, and URLScan for any given domain. And the onlyjs is a custom gau collect only javascript url.
+
 
 Inspired by Tomnomnom's [gau](https://github.com/tomnomnom/gau).
 
-
+<\kbd>
 # Resources
 - [Usage](#usage)
 - [Installation](#installation)
